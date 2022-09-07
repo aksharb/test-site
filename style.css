@@ -50,3 +50,37 @@ body {
   justify-content: center;
   padding-left: 5px;
 }
+
+.third-section {
+  display: flex;
+  font-size: larger;
+  background: #effffd;
+  padding: 30px 20px;
+  color: #1b2430;
+}
+.third-section img {
+  width: 45%;
+}
+.third-section p {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-right: 5px;
+}
+.footer {
+  background: #1b2430;
+}
+ul {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+li {
+  padding: 10px 10px;
+}
+a {
+  color: darkgray;
+  text-decoration: none;
+}
